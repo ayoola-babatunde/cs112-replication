@@ -1,4 +1,4 @@
-# other
+# CS112 Replication
 
 I replicated Voting Made Safe and Easy: The Impact of e-voting on Citizen Perceptions, a political science paper 
 by Alvarez R. Michael, Levin Ines Pomares Julia, and Leiras Marcelo published in Political Science Research and 
